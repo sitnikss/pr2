@@ -1,0 +1,10 @@
+D:\учеба\ТРПО\pr2\bin\Debug\WindowsFormsApp7.exe.config
+D:\учеба\ТРПО\pr2\bin\Debug\WindowsFormsApp7.exe
+D:\учеба\ТРПО\pr2\bin\Debug\WindowsFormsApp7.pdb
+D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.Form1.resources
+D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.exe
+D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.pdb
