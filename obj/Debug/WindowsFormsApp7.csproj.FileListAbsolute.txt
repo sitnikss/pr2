@@ -8,3 +8,13 @@ D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.ca
 D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
 D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.exe
 D:\учеба\ТРПО\pr2\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\asus\pr2\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\asus\pr2\bin\Debug\WindowsFormsApp7.exe
+C:\Users\asus\pr2\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\asus\pr2\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\asus\pr2\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\asus\pr2\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\asus\pr2\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\asus\pr2\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\asus\pr2\obj\Debug\WindowsFormsApp7.exe
+C:\Users\asus\pr2\obj\Debug\WindowsFormsApp7.pdb
